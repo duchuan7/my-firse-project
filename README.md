@@ -1,2 +1,2 @@
-# my-firse-project
+# my-first-project
 这是我在github上面的第一个项目
